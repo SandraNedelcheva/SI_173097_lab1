@@ -2,12 +2,13 @@
 #include <cstring>
 using namespace std;
 
-void printMyName () {
-	//TODO
+void printMyName () 
+{
+  cout<<"Sandra Nedelcheva"<<endl;
 }
 
 void printMyIndex () {
-	//TODO
+  cout<<"173097"<<endl;
 }
 
 int main () {
