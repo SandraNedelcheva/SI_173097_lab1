@@ -2,8 +2,9 @@
 #include <cstring>
 using namespace std;
 
-void printMyName () {
-	//TODO
+void printMyName () 
+{
+  cout<<"Sandra Nedelcheva"<<endl;
 }
 
 void printMyIndex () {
